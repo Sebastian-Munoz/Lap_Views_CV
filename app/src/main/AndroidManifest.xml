@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Ejercicio_10"></activity>
+        <activity android:name=".MainActivity"/>
         <activity android:name=".Ejercicio_9" />
         <activity android:name=".Ejercicio_8" />
         <activity android:name=".Ejercicio_7" />
@@ -21,7 +21,7 @@
         <activity android:name=".Example2" />
         <activity android:name=".Ejercicio_1" />
         <activity android:name=".Example3" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Ejercicio_10">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
